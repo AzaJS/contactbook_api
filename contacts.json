@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Azret",
+      "surname": "Moldobaev",
+      "phoneNumber": "0556804260",
+      "description": "JavaScript developer, student and just a good man",
+      "image": "https://sun3-13.userapi.com/s/v1/ig2/XOniUMZAbg-LZa5mr53rOu4jkQ0uInDi-EV3HckkviuXs5wmNbqhrJOX7uxI4SQTKZQcgTd_QrX_XE8buXbLyMuj.jpg?size=200x200&quality=96&crop=264,387,525,525&ava=1",
+      "id": 1
+    },
+    {
+      "name": "Bek",
+      "surname": "Bekmurzaev",
+      "phoneNumber": "0556854565",
+      "description": "gaagaaagaaa",
+      "image": "https://sun9-76.userapi.com/impf/c845520/v845520907/178963/e7ma6W_lMKc.jpg?size=971x1080&quality=96&sign=aa1637d43e61876d0f1854da91b007ff&type=album",
+      "id": 3
+    },
+    {
+      "name": "Janar",
+      "surname": "Tilekov",
+      "phoneNumber": "0220212323",
+      "description": "не за баллы, за знания",
+      "image": "https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkT4T1SVsYGCqqf6UeCrA3VaaKTM5SRkZCeTgDn6uOyic",
+      "id": 4
+    },
+    {
+      "name": "MOLDOB",
+      "surname": "as",
+      "phoneNumber": "122",
+      "description": "asd",
+      "image": "cx",
+      "id": 5
+    }
+  ]
+}
